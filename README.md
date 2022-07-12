@@ -4,7 +4,7 @@ This project repository will be a collection of personal projects ranging from e
 
 Important Git commands:
 
-cd C:/	: Allows you to work in a certain directory folder 
+cd C:/	: Allows you to work in a certain directory folder
 ls or ls -a : Lists contents, with -a listing hidden folders
 git init  : Initializes a repository
 git status  : Allows you to check if commits beed to be made, and current branch
